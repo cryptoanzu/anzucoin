@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.anzucoin.Litecoin-Qt";
+        return @"org.anzucoin.Anzucoin-Qt";
     } else {
         return [self __bundleIdentifier];
     }

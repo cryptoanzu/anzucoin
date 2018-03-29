@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to anzucoin-core.
 
 General anzucoin questions and/or support requests and are best directed to the [anzucointalk.io forums](https://anzucointalk.io/).
 
-For reporting security issues, please contact the Litecoin developers on the #anzucoin-dev Freenode IRC channel or alternatively you can email us at contact@anzucoin.org.
+For reporting security issues, please contact the Anzucoin developers on the #anzucoin-dev Freenode IRC channel or alternatively you can email us at contact@anzucoin.org.
 
 ### Describe the issue
 

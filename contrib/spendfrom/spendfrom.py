@@ -38,9 +38,9 @@ def check_json_precision():
 def determine_db_dir():
     """Return the default location of the anzucoin data directory"""
     if platform.system() == "Darwin":
-        return os.path.expanduser("~/Library/Application Support/Litecoin/")
+        return os.path.expanduser("~/Library/Application Support/Anzucoin/")
     elif platform.system() == "Windows":
-        return os.path.join(os.environ['APPDATA'], "Litecoin")
+        return os.path.join(os.environ['APPDATA'], "Anzucoin")
     return os.path.expanduser("~/.anzucoin")
 
 def read_bitcoin_config(dbdir):
